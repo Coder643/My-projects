@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+
+#img {
+transition: transform .2s;
+}
+
+img:hover{
+transform: scale(20);
+}
+
